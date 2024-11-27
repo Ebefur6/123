@@ -1,0 +1,5 @@
+bot.log
+config.py
+user_data.json
+/venv
+/__pycache__
